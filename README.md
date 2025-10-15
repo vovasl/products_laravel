@@ -14,6 +14,4 @@
 4. Generate application key `php artisan key:generate`
 5. Run migrations `php artisan migrate`
 6. Create the symbolic link for storage `php artisan storage:link`
-7. Install frontend dependencies and build assets
-   `npm install`
-   `npm run dev`
+7. Install frontend dependencies and build assets `npm install` and `npm run dev`
