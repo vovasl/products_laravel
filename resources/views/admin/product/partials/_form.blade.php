@@ -148,12 +148,8 @@
             type="submit"
             class="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium px-6 py-2 rounded-md transition duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
         >
-            <svg class="w-5 h-5" stroke="currentColor" stroke-width="2"
-                 viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round"
-                      d="M5 13l4 4L19 7"/>
-            </svg>
             {{ __('Save') }}
         </button>
+
     </div>
 </form>
